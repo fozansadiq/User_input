@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+ 
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+html{
+  font-family: sans-serif;
+  background-color: rgb(34, 32, 32);
+}
